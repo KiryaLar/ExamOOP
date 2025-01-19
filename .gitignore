@@ -12,6 +12,10 @@ target/
 *.iws
 *.iml
 *.ipr
+.expenses.json
+.revenues.json
+.users.json
+.wallets.json
 
 ### Eclipse ###
 .apt_generated
@@ -38,7 +42,3 @@ build/
 ### Mac OS ###
 .DS_Store
 
-.expenses.json
-.revenues.json
-.users.json
-.wallets.json
