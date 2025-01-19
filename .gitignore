@@ -12,10 +12,10 @@ target/
 *.iws
 *.iml
 *.ipr
-.expenses.json
-.revenues.json
-.users.json
-.wallets.json
+expenses.json
+revenues.json
+users.json
+wallets.json
 
 ### Eclipse ###
 .apt_generated
